@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi! I`m Nikita!
+
+### ☎️ Contacts
+- Telegram: <a href="https://t.me/Volojin">@Volojin</a>
+- E-mail: volojin.nikita@gmail.com
 
 <!--
 **puppalupa/puppalupa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
